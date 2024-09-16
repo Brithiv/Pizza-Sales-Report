@@ -7,19 +7,6 @@
 
 <hr>
 
-
-
-
-<h2>🔗 View Interactive Dashboard</h2>
-
-<p align="center">
-  <a href="your-power-bi-dashboard-link" target="_blank" rel="noopener noreferrer"><strong>Click here to view the interactive Power BI dashboard</strong></a>
-</p>
-
-
-
-
-
 <p align="center">
   A comprehensive pizza sales analysis dashboard created to explore key metrics and uncover insights into sales performance. The dashboard tracks various performance indicators and trends to provide a complete overview of the pizza sales data.
 </p>
