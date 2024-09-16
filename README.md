@@ -8,11 +8,14 @@
 <hr>
 
 
+
+
 <h2>🔗 View Interactive Dashboard</h2>
 
 <p align="center">
-  <a href="your-power-bi-dashboard-link" target="_blank"><strong>Click here to view the interactive Power BI dashboard</strong></a>
+  <a href="your-power-bi-dashboard-link" target="_blank" rel="noopener noreferrer"><strong>Click here to view the interactive Power BI dashboard</strong></a>
 </p>
+
 
 
 
