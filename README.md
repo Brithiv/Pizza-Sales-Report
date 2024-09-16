@@ -1,4 +1,4 @@
-<h1 align="center">Pizza Sales Dashboard</h1>
+<h1 align="center">Pizza Sales Report</h1>
 
 <hr>
 
