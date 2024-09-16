@@ -48,3 +48,5 @@
   The main goal of this project is to provide a detailed sales analysis that can help in making data-driven business decisions, such as optimizing the pizza menu, enhancing marketing strategies, and improving inventory management. By focusing on key performance indicators and visualizing sales trends, this dashboard offers actionable insights that can help boost revenue and customer satisfaction.
 </p>
 
+![Pizza Sales](https://github.com/user-attachments/assets/3993d576-9420-41ae-99bd-efec05da0b5d)
+
