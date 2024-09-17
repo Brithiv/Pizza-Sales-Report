@@ -7,46 +7,51 @@
 
 <hr>
 
-<p align="center">
-  A comprehensive pizza sales analysis dashboard created to explore key metrics and uncover insights into sales performance. The dashboard tracks various performance indicators and trends to provide a complete overview of the pizza sales data.
-</p>
+This project focuses on analyzing pizza sales data using both **SQL** and **Power BI** to generate insights into key performance metrics.
 
-<h2>📊 Project Overview</h2>
+## 📊 Key Performance Indicators (KPIs)
 
-<p>
-  This project focuses on analyzing pizza sales data to help understand the sales trends, customer preferences, and performance of various pizza categories. By leveraging Excel and Power BI, I built a visually appealing and insightful dashboard that highlights crucial business metrics. These insights can support decision-making related to menu optimization, marketing strategies, and operational improvements.
-</p>
+- **💰 Total Revenue**: The overall revenue generated from pizza sales.
+- **🧾 Average Order Value**: The average amount spent per order.
+- **🍕 Total Pizzas Sold**: The number of pizzas sold during the analysis period.
+- **📦 Total Orders**: The total number of orders placed.
+- **🍽️ Average Pizzas per Order**: The average number of pizzas per order.
 
-<h2>📈 Key Metrics and Insights</h2>
+## 📈 Analysis Performed
 
-<ul>
-  <li><strong>Total Revenue:</strong> Calculated to determine the total sales generated from all pizza orders.</li>
-  <li><strong>Average Order Value:</strong> Analyzed to understand the average revenue generated per order.</li>
-  <li><strong>Total Pizzas Sold:</strong> The total number of pizzas sold across all categories and sizes.</li>
-  <li><strong>Total Orders:</strong> The total count of orders placed, giving an overview of order frequency.</li>
-  <li><strong>Average Pizzas per Order:</strong> The average number of pizzas ordered per transaction, offering insights into customer purchasing behavior.</li>
-</ul>
+- **📅 Daily Trends for Total Orders**: SQL queries were used to track daily order trends.
+- **📆 Monthly Trends for Total Orders**: Monthly analysis to understand peak periods.
+- **📊 Percentage of Sales by Pizza Category**: Breakdown of sales by pizza type (e.g., veggie, meat, etc.).
+- **📐 Sales by Pizza Size**: Insights into which pizza sizes (small, medium, large) perform the best.
+- **🏅 Top 5 Best Sellers (Revenue, Quantity, Orders)**: SQL queries to identify the most popular pizzas.
+- **📉 Bottom 5 Worst Sellers (Revenue, Quantity, Orders)**: SQL queries to pinpoint underperforming products.
 
-<h2>📅 Trends and Analysis</h2>
+## 🛠️ Tools Used
 
-<ul>
-  <li><strong>Daily and Monthly Trends:</strong> Analyzed to understand the fluctuation in order volume over time, helping to identify peak sales periods.</li>
-  <li><strong>Sales by Pizza Category and Size:</strong> Breakdown of pizza sales by category (e.g., Vegetarian, Non-Vegetarian) and size (Small, Medium, Large) to identify customer preferences.</li>
-  <li><strong>Top 5 and Bottom 5 Best Sellers:</strong> Identified based on revenue, quantity sold, and total orders to highlight the most and least popular pizzas.</li>
-</ul>
+- **SQL** for querying, data extraction, and aggregation.
+- **Power BI** for data visualization, dashboard creation, and trend analysis.
 
-<h2>🛠 Tools Used</h2>
+## 🖼️ Visualizations
 
-<ul>
-  <li><strong>Excel:</strong> Used for data cleaning, manipulation, and basic analysis.</li>
-  <li><strong>Power BI:</strong> Used to create interactive dashboards and visualizations to present the findings effectively.</li>
-</ul>
+- **Daily Trends** for total orders using line graphs.
+- **Monthly Sales Trends** to visualize order volume over time.
+- **Sales Breakdown** by pizza category and size using pie charts and bar graphs.
+- **Top/Bottom Sellers** visualized through bar charts.
 
-<h2>🎯 Project Goals</h2>
+## 🎯 Project Goals
 
-<p>
-  The main goal of this project is to provide a detailed sales analysis that can help in making data-driven business decisions, such as optimizing the pizza menu, enhancing marketing strategies, and improving inventory management. By focusing on key performance indicators and visualizing sales trends, this dashboard offers actionable insights that can help boost revenue and customer satisfaction.
-</p>
+1. **Analyze Sales Trends**: Identify daily and monthly trends in total orders and revenue to understand peak sales periods and customer behavior.
+   
+2. **Understand Product Performance**: Evaluate the performance of different pizza categories (e.g., veggie, meat, deluxe) and sizes (small, medium, large) to identify best- and worst-selling products.
+
+3. **Optimize Business Operations**: Use insights from sales data to recommend inventory management strategies, menu optimizations, and promotional offers for underperforming items.
+
+4. **Leverage SQL for Data Extraction**: Utilize SQL queries to efficiently retrieve, aggregate, and analyze data from the pizza sales database.
+
+5. **Create Visual Representations**: Develop interactive visualizations in Power BI to showcase key metrics such as total revenue, average order value, top-selling pizzas, and daily sales trends.
+
+6. **Support Data-Driven Decisions**: Provide actionable insights that will help improve marketing strategies, optimize pricing, and streamline operational efficiency in the pizza business.
+
 
 ![Pizza Sales](https://github.com/user-attachments/assets/3993d576-9420-41ae-99bd-efec05da0b5d)
 
