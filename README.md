@@ -51,7 +51,9 @@ This project focuses on analyzing pizza sales data using both **SQL** and **Powe
 5. **Create Visual Representations**: Develop interactive visualizations in Power BI to showcase key metrics such as total revenue, average order value, top-selling pizzas, and daily sales trends.
 
 6. **Support Data-Driven Decisions**: Provide actionable insights that will help improve marketing strategies, optimize pricing, and streamline operational efficiency in the pizza business.
+---
 
+## 📸 Dashboard Screenshots
 
 ![Pizza Sales](https://github.com/user-attachments/assets/3993d576-9420-41ae-99bd-efec05da0b5d)
 
